@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fish Sucks Finger</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <button id="fishButton">Click Me!</button>
+    <div id="fishContainer">
+      <div class="fish">
+        <div class="fish-body"></div>
+        <div class="fish-mouth"></div>
+      </div>
+      <div class="finger"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
